@@ -1,0 +1,131 @@
+                                                 GRAND LODGE AT BRIAN HEAD                                               09-21-15
+
+
+                                                                                                                        05:14 PM
+
+                                                       Room Type Forecast
+
+
+Date                Room Type               Physical Out of Order     Inventory Overbooking Reserved Available
+                                             Rooms       Rooms          Rooms                Rooms    Rooms
+
+09-22-15            RKT                           1            0              1           0        0         1
+                    RKS                           5            1              4           0        6       -2
+                    RKSC                          3            0              3           0        1         2
+                    RQT                          15            0            15            0        1       14
+                    RQS                          15            0            15            0        1       14
+                    RQTC                          8            0              8           0        0         8
+                    RQSC                          1            0              1           0        0         1
+                    RKTH                          1            0              1           0        1         0
+                    RKSHC                         1            0              1           0        0         1
+                    RKSV                         10            0            10            0        6         4
+                    RQTV                          9            0              9           0        0         9
+                    RQSV                          9            0              9           0        0         9
+                    RQTVC                         5            0              5           0        0         5
+                    RQSVC                         1            0              1           0        0         1
+                    SKSTS                         3            0              3           0        0         3
+                    SKSTTC                        1            0              1           0        0         1
+                    SKSS                          2            0              2           0        0         2
+                    SKSSC                         2            0              2           0        0         2
+                    SQSSC                         1            0              1           0        0         1
+                    S232                          1            0              1           0        0         1
+                    S332                          1            0              1           0        0         1
+                    S127                          1            0              1           0        0         1
+                    QHTC                          1            0              1           0        0         1
+                    KHS                           1            0              1           0        0         1
+                    KHT                           2            0              2           0        1         1
+
+
+                    Hotel Availability         100             1            99            0       17       82
+
+
+09-23-15            RKT                           1            0              1           0        1         0
+                    RKS                           5            1              4           0        4         0
+                    RKSC                          3            0              3           0        0         3
+                    RQT                          15            0            15            0       12         3
+                    RQS                          15            0            15            0        5       10
+                    RQTC                          8            0              8           0        3         5
+                    RQSC                          1            0              1           0        0         1
+                    RKTH                          1            0              1           0        0         1
+                    RKSHC                         1            0              1           0        0         1
+                    RKSV                         10            0            10            0        4         6
+                    RQTV                          9            0              9           0        0         9
+                    RQSV                          9            0              9           0        0         9
+                    RQTVC                         5            0              5           0        0         5
+                    RQSVC                         1            0              1           0        0         1
+                    SKSTS                         3            0              3           0        0         3
+                    SKSTTC                        1            0              1           0        0         1
+                    SKSS                          2            0              2           0        0         2
+                    SKSSC                         2            0              2           0        0         2
+                    SQSSC                         1            0              1           0        0         1
+                    S232                          1            0              1           0        0         1
+
+
+Filter Display Availability                                 Page 1 of 2                                         room_type_forecast
+       From Date 09-22-15 To Date 09-24-15
+       Room Class All
+       Room Type All
+       Include Overbooking
+
+                                                 GRAND LODGE AT BRIAN HEAD                                               09-21-15
+
+
+                                                                                                                        05:14 PM
+
+                                                       Room Type Forecast
+
+
+Date                Room Type               Physical Out of Order     Inventory Overbooking Reserved Available
+                                             Rooms       Rooms          Rooms                Rooms    Rooms
+
+09-23-15            S332                          1            0              1           0        0         1
+                    S127                          1            0              1           0        0         1
+                    QHTC                          1            0              1           0        0         1
+                    KHS                           1            0              1           0        0         1
+                    KHT                           2            0              2           0        0         2
+
+
+                    Hotel Availability         100             1            99            0       29       70
+
+
+09-24-15            RKT                           1            0              1           0        2       -1
+                    RKS                           5            1              4           0        4         0
+                    RKSC                          3            0              3           0        3         0
+                    RQT                          15            0            15            0       14         1
+                    RQS                          15            0            15            0        8         7
+                    RQTC                          8            0              8           0        4         4
+                    RQSC                          1            0              1           0        0         1
+                    RKTH                          1            0              1           0        1         0
+                    RKSHC                         1            0              1           0        1         0
+                    RKSV                         10            0            10            0        3         7
+                    RQTV                          9            0              9           0        0         9
+                    RQSV                          9            0              9           0        0         9
+                    RQTVC                         5            0              5           0        0         5
+                    RQSVC                         1            0              1           0        0         1
+                    SKSTS                         3            0              3           0        0         3
+                    SKSTTC                        1            0              1           0        0         1
+                    SKSS                          2            0              2           0        0         2
+                    SKSSC                         2            0              2           0        0         2
+                    SQSSC                         1            0              1           0        0         1
+                    S232                          1            0              1           0        0         1
+                    S332                          1            0              1           0        0         1
+                    S127                          1            0              1           0        0         1
+                    QHTC                          1            0              1           0        0         1
+                    KHS                           1            0              1           0        0         1
+                    KHT                           2            0              2           0        0         2
+
+
+                    Hotel Availability         100             1            99            0       40       59
+
+
+Grand Total         Hotel Availability         300             3           297                    86      211
+
+
+
+
+Filter Display Availability                                 Page 2 of 2                                         room_type_forecast
+       From Date 09-22-15 To Date 09-24-15
+       Room Class All
+       Room Type All
+       Include Overbooking
+
